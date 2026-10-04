@@ -1,0 +1,6 @@
+{
+  "name": "Hospital Management System",
+  "description": "Comprehensive, production-style Hospital Management System (HMS) with role-based access for Admins, Doctors, Nurses, Receptionists, Patients, Pharmacists, Lab Techs, and Accountants.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
